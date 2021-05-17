@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a57cc24f.chunk.css",
+    "main.js": "/portfolio/static/js/main.795b6cb5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.795b6cb5.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.c8956b1e.chunk.js": "/portfolio/static/js/2.c8956b1e.chunk.js",
+    "static/js/2.c8956b1e.chunk.js.map": "/portfolio/static/js/2.c8956b1e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.b7d064e7c82a4cbf80d002eae4b49850.js": "/portfolio/precache-manifest.b7d064e7c82a4cbf80d002eae4b49850.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.a57cc24f.chunk.css.map": "/portfolio/static/css/main.a57cc24f.chunk.css.map",
+    "static/js/2.c8956b1e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c8956b1e.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.7c8e5f50.png",
+    "static/media/App.css": "/portfolio/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/html-css-javascript-lg.jpg": "/portfolio/static/media/html-css-javascript-lg.54fd4234.jpg",
+    "static/media/javascript-fullstack.jpg": "/portfolio/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/react-redux.jpg": "/portfolio/static/media/react-redux.a8b012a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.c8956b1e.chunk.js",
+    "static/css/main.a57cc24f.chunk.css",
+    "static/js/main.795b6cb5.chunk.js"
+  ]
+}
